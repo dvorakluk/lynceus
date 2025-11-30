@@ -4,4 +4,6 @@
   <p><em>Wisdom in every notification</em></p>
 </div>
 
-Lynceus is a lightweight agent that keeps you informed about the things that matter to your workflow.
+Lynceus is a lightweight agent that keeps you informed about the things that matter to your workflow. Named after the keen-sighted Argonaut of Greek mythology (and represented by a watchful owl), Lynceus monitors feeds and git forges, delivering desktop notifications when updates occur.
+
+Whether you're tracking blog posts, monitoring project releases, or waiting for that critical PR to merge, Lynceus handles the watching so you can focus on building. It's designed for developers who need to stay connected without constantly checking multiple sources.
