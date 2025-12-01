@@ -10,6 +10,6 @@ Whether you're tracking blog posts, monitoring project releases, or waiting for 
 
 ## Configuration
 
-Lynceus currently uses JSON for its configuration file. Is JSON my favorite choice for human-written configuration? Absolutely not. But it’s intentionally being used for now to avoid adding extra dependencies or committing too early to yet another configuration language while the set of configuration options is still taking shape.
+Lynceus currently uses JSON for its configuration file. Is JSON my favorite choice for human-written configuration? Absolutely not. But it is being used intentionally for now to avoid adding extra dependencies or committing too early to yet another configuration language while the set of configuration options is still taking shape.
 
 Configuration is organized around **sources**, each source tells Lynceus what to watch.
